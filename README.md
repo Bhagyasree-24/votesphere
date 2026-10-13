@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VoteSphere — Student Voting App
 
 A full-stack educational voting app built with React, TypeScript, Node.js, Express, Mongoose, and MongoDB.
@@ -72,3 +73,7 @@ Vote JSON:
 
 ## Important security limitation
 This project demonstrates duplicate-vote prevention using a client-provided voter ID. It is not secure identity verification because users can change or clear browser storage. For real elections, add authentication and enforce eligibility server-side.
+=======
+# votesphere
+VoteSphere – A secure and user-friendly online voting platform designed to simplify the voting process through a digital interface.
+>>>>>>> origin/main
